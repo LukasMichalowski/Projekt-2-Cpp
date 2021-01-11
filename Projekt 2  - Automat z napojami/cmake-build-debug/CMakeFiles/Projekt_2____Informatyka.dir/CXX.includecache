@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Automat.h
+PrinterNapoi.h
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/PrinterNapoi.h
+variant
+-
+memory
+-
+Monety.h
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Monety.h
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Monety.h
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Napoje.h
+iostream
+-
+string
+-
+utility
+-
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/PrinterNapoi.h
+Napoje.h
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Napoje.h
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Symulacja.h
+Automat.h
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Automat.h
+
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/main.cpp
+Symulacja.h
+C:/Users/Lukas/Desktop/Projekt 2  - Informatyka/Symulacja.h
+
